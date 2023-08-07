@@ -41,9 +41,7 @@ The repository contains the following files and directories:
 
 3. `hand_sign_classification.png`: An image illustrating the hand sign classification project.
 
-4. `requirements.txt`: A text file listing the required dependencies for the project.
-
-5. `README.md`: This file providing an overview of the project and its contents.
+4. `README.md`: This file providing an overview of the project and its contents.
 
 ## How to Use
 
